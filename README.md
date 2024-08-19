@@ -80,4 +80,3 @@ Contributions are welcome! Please open an issue or submit a pull request with yo
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-This README provides a comprehensive overview of the project, guiding users from installation to usage, with details on the model and evaluation metrics. You can modify specific details such as the test accuracy and RMSE after running the code.
